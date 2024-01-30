@@ -19,3 +19,16 @@
 
 # Go workspace file
 go.work
+
+#####
+bin/
+.idea/
+.vscode/
+
+.DS_Store
+
+*~
+~*
+*.log
+*.sock
+*.mmdb
